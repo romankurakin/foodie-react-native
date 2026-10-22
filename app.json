@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Foodie",
+    "slug": "foodie",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#ffffff" },
+    "assetBundlePatterns": ["**/*"],
+    "iosbě": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#ffffff" } }
+  }
+}
